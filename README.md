@@ -2,5 +2,5 @@
 * [shanghai-art-map](https://https://jing-viz.github.io/shanghai-art-map)
 * [color-linez](https://jing-viz.github.io/color-linez/)
 * [three.js playpen](https://jing-viz.github.io/playpen/)
-* [PBR 3D Button](https://github.com/jing-viz/button-demo)
-* [learn-webgl](https://github.com/jing-viz/learn-webgl)
+* [PBR 3D Button](https://jing-viz.github.io/button-demo)
+* [learn-webgl](https://jing-viz.github.io/learn-webgl)
