@@ -2,6 +2,6 @@
 * [d3 experiments](https://jing-viz.github.io/d3)
 * [shanghai-art-map](https://jing-viz.github.io/shanghai-art-map)
 * [color-linez](https://jing-viz.github.io/color-linez)
-* [three.js playpen](https://jing-viz.github.io/playpen)
-* [PBR 3D Button](https://jing-viz.github.io/button-viz)
+* [globe](https://jing-viz.github.io/webgl/globe/)
+* [PBR 3D Button](https://jing-viz.github.io/webgl/button-viz/)
 * [learn-webgl](https://jing-viz.github.io/learn-webgl)
